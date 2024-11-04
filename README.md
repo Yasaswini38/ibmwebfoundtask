@@ -15,7 +15,7 @@ The **Task List App** is a simple yet efficient web application designed to help
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/task-list-app.git
+   git clone https://github.com/yasaswini38/ibmwebfoundtask.git
    cd task-list-app
 2.**Open the App**:
 Open `index.html` in your web browser to start using the Task List App.
