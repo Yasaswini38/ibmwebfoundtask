@@ -17,3 +17,21 @@ The **Task List App** is a simple yet efficient web application designed to help
    ```bash
    git clone https://github.com/yourusername/task-list-app.git
    cd task-list-app
+2.## Open the App
+Open `index.html` in your web browser to start using the Task List App.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Use the Chatbot
+- **Open the Chatbot**: Click on the "Chat" button to open the chatbot window.
+- **Send Messages**: Type your question or command in the chat input and press "Send" or hit Enter.
+- **Receive Responses**: The chatbot will provide answers based on your input, guiding you on how to manage your tasks effectively.
+
+## Example Chatbot Commands
+- **"Add a task"**: Learn how to add tasks to your list.
+- **"Delete a task"**: Get instructions on removing tasks.
+- **"How to use this app?"**: Find out what functionalities are available.
+- **"Hello"**: Engage with the chatbot for a friendly conversation.
