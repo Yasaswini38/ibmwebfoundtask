@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <script src="script.js" defer></script>
+    <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <title>Task List</title>
+</head>
+<body>
+    <div class="container">
+        <h1 id="head-text">Task List</h1>
+        <div id="newtask">
+            <input type="text" placeholder="Add a task">
+            <button id="push">Add</button>
+        </div>
+        <div class="tasks"></div>
+        
+       
+        <button id="open-chatbot">Chat</button>
+        
+       
+        <div class="chatbot-popup" id="chatbot-popup">
+            <div class="chatbot-header" id="chatbot-header">
+                <h2>Chatbot</h2>
+                <button id="close-chatbot">X</button>
+            </div>
+            <div class="chatbot-messages"></div>
+            <input type="text" id="chat-input" placeholder="Type your message...">
+            <button id="send-chat">Send</button>
+        </div>
+    </div>
+</body>
+</html>
