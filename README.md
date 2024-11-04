@@ -17,7 +17,7 @@ The **Task List App** is a simple yet efficient web application designed to help
    ```bash
    git clone https://github.com/yourusername/task-list-app.git
    cd task-list-app
-2.## Open the App
+2.**Open the App**:
 Open `index.html` in your web browser to start using the Task List App.
 
 ## Technologies Used
